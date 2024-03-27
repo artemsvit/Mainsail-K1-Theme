@@ -1,1 +1,1 @@
-# Mainsail-K1-Theme
+# Mainsail K1 Theme
