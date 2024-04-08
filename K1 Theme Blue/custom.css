@@ -72,3 +72,7 @@ background: #20283e;
 background-color: #6FB159;
 border-color: #6FB159;
 }
+.v-application .warning {
+background-color: #22BCF0 !important;
+border-color: #22BCF0 !important;
+}
